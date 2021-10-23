@@ -1,6 +1,6 @@
 {
   "name": "chris-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "chris.xiao <chris.xiao@topibd.com>",
   "homepage": "https://github.com/chris1299/lerna-demo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/chris1299/lerna-demo/issues"
   },
   "dependencies": {
-    "chris-utils": "^1.0.0",
+    "chris-utils": "^1.0.1",
     "lodash": "^4.17.21"
   }
 }
